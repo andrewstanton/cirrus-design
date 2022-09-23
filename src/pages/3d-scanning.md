@@ -1,7 +1,7 @@
 ---
 templateKey: overview-page
-seotitle: Professional 3D Scanning
-seodescription: We Use 3D Scanners From Industry Leaders Like Matterport And Faro. We Take Precise Measurements That Can Be Viewed From The Comfort Of Your Office.
+seotitle: Industrial 3D Scanning Services | Cirrus Design
+seodescription: Professional 3D scanning services with industry leading lidar scanning technology for precise measurements and accurate scans in the Idaho area
 title: 3D Scanning
 subtitle:
 image: https://raw.githubusercontent.com/andrewstanton/cirrus-design/master/src/img/content/1-hed-section-looking-upstream.jpg

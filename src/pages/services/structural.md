@@ -1,7 +1,7 @@
 ---
 templateKey: service-page
-seotitle: Title
-seodescription: Description
+seotitle: Ground Penetrating Radar Services Idaho | Cirrus Design
+seodescription: Using ground penetrating radar technology we can help identify what is below a surface in your industrial facilities, servicing Idaho & Spokane Washington
 title: Structural
 image: https://raw.githubusercontent.com/andrewstanton/cirrus-design/develop/static/img/scanning.jpg
 sectitle: Sub Section Heading

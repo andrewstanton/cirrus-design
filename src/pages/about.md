@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
-seotitle: About 3D Scanning Services
-seodescription: We Use The Latest Point Cloud Technology To Improve Accuracy And Facilitate Early Visualization. Thorough And Accurate.
+seotitle: Professional 3D Mapping & Scanning Services | Cirrus Design
+seodescription: With over 30 years of experience providing high quality 3D mapping and scanning services for industrial facilities and conceptual design testing in Spokane
 title: Our Mission
 ---
 

@@ -1,7 +1,7 @@
 ---
 templateKey: aec-page
-seotitle: Architectural Engineering Construction 
-seodescription: Helps Reduce File Space Consumption With Detailed 3D Point Cloud Information. Creating 3D Matterport Models.
+seotitle: Concrete Survey Services | Cirrus Design 
+seodescription: Architectural engineering construction services, detailing existing conditions, powercable detection, rebar detection, and concrete survey Spokane & Idaho
 title: Architectural Engineering Construction (AEC)
 image: https://raw.githubusercontent.com/andrewstanton/cirrus-design/master/src/img/content/aec/aec-2.jpg
 image2: https://raw.githubusercontent.com/andrewstanton/cirrus-design/master/src/img/content/aec-example.jpg

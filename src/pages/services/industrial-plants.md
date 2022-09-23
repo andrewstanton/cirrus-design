@@ -1,7 +1,7 @@
 ---
 templateKey: industrial-page
-seotitle: Industrial Plant 3D Scan Matterport
-seodescription: 3D Scanning And Mapping Of Industrial Plants, Accurate To Within 1/8th Of An Inch. Matterport 3D Model And Walkthrough
+seotitle: 3D Scanning & Mapping Industrial Plants | Cirrus Design
+seodescription: 3D scanning services of industrial plants for highly accurate interior models showing machine locations, confined space, and piping for 3D viewing In Spokane
 title: Industrial Plants
 image: https://raw.githubusercontent.com/andrewstanton/cirrus-design/master/src/img/content/industial%20plants/industial-4.jpg
 sectitle: INDUSTRIAL PROCESSING PLANT MATTERPORT WALKTHROUGH

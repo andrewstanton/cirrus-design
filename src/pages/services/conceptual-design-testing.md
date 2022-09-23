@@ -1,7 +1,7 @@
 ---
 templateKey: conceptual-page
-seotitle: Conceptual Design & Testing With Airshaper 
-seodescription: Effortlessly Check And Improve Your Aerodynamic Design. Partnered With Belgian Airshaper Improving & Testing Performance Of Designs
+seotitle: Aerodynamic Testing For Concept Designs Idaho | Cirrus Design
+seodescription: Test your conceptual designs with 3D technology and improve performance of your aerodynamic designs through our testing services Idaho and Spokane
 title: Conceptual Design & Testing
 image: https://raw.githubusercontent.com/andrewstanton/cirrus-design/master/src/img/content/fea-example-lifting-beam.png
 sectitle: Airshaper
